@@ -86,13 +86,13 @@ Competing in programming contests, leading technical initiatives, and delivering
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats-eight.vercel.app/api?username=Ifaz-Ikram&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ifaz-Ikram&theme=tokyonight" alt="GitHub Stats"/>
 &nbsp;
-<img height="175" src="https://streak-stats.demolab.com/?user=Ifaz-Ikram&theme=tokyonight&border_radius=10&hide_border=false" alt="GitHub Streak"/>
+<img height="200" src="https://streak-stats.demolab.com/?user=Ifaz-Ikram&theme=tokyonight&border_radius=10&hide_border=false" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img height="175" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Ifaz-Ikram&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" alt="Top Languages"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ifaz-Ikram&theme=tokyonight" alt="Top Languages"/>
 
 </div>
 
