@@ -88,21 +88,12 @@ Competing in programming contests, leading technical initiatives, and delivering
 
 <img height="200" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats"/>
 &nbsp;
+<br/><br/>
 <img height="200" src="https://streak-stats.demolab.com/?user=Ifaz-Ikram&theme=tokyonight&border_radius=10&hide_border=false" alt="GitHub Streak"/>
 
 <br/><br/>
 
 <img height="200" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-gamma.vercel.app/?username=Ifaz-Ikram&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4" alt="GitHub Trophies"/>
 
 </div>
 
