@@ -153,8 +153,6 @@ Competing in programming contests, leading technical initiatives, and delivering
 
 *"Engineering is the discipline of turning clarity under pressure into systems people can trust."*
 
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=6:667eea,12:764ba2,18:9d4edd,24:7b2cbf&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&animation=twinkling" width="100%"/>
 
 </div>
