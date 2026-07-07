@@ -97,26 +97,6 @@ Competing in programming contests, leading technical initiatives, and delivering
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ifaz-Ikram&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=7C3AED&point=6366F1" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-
-</div>
-
----
-
 <div align="center">
 
 *Engineering is the discipline of turning clarity under pressure into systems people can trust.*
