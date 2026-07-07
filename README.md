@@ -9,7 +9,6 @@
 <img src="https://img.shields.io/badge/University%20of%20Moratuwa-9D4EDD?style=for-the-badge&logo=google-scholar&logoColor=white" alt="University of Moratuwa"/>
 <img src="https://img.shields.io/badge/BSc%20Eng%20(Hons)%20CSE-667eea?style=for-the-badge&logo=academia&logoColor=white" alt="BSc Eng Hons CSE"/>
 <img src="https://img.shields.io/badge/Data%20Science%20Specialization-764ba2?style=for-the-badge&logo=datacamp&logoColor=white" alt="Data Science"/>
-<img src="https://img.shields.io/badge/Dean's%20List-7B2CBF?style=for-the-badge&logo=star&logoColor=white" alt="Dean's List"/>
 
 <br/><br/>
 
@@ -152,6 +151,8 @@ Competing in programming contests, leading technical initiatives, and delivering
 <div align="center">
 
 *"Engineering is the discipline of turning clarity under pressure into systems people can trust."*
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=6:667eea,12:764ba2,18:9d4edd,24:7b2cbf&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&animation=twinkling" width="100%"/>
 
