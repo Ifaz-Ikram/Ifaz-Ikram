@@ -9,8 +9,6 @@
 <p>
   <img src="https://img.shields.io/badge/BSc_Eng_(Hons)_CSE-University_of_Moratuwa-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-3.60_/_4.00-10B981?style=flat-square"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/Location-Galle,_Sri_Lanka-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
