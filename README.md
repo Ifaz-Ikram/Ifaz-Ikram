@@ -151,31 +151,6 @@ Competing in programming contests, leading technical initiatives, and delivering
 
 <div align="center">
 
-## Connect
-
-</div>
-
-<div align="center">
-
-<a href="mailto:ifazi.23@cse.mrt.ac.lk">
-  <img src="https://img.shields.io/badge/Gmail-ifazi.23@cse.mrt.ac.lk-764ba2?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/ifaz-ikram/">
-  <img src="https://img.shields.io/badge/LinkedIn-ifaz--ikram-667eea?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Ifaz-Ikram">
-  <img src="https://img.shields.io/badge/GitHub-Ifaz--Ikram-7B2CBF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.ifaz.me/">
-  <img src="https://img.shields.io/badge/Portfolio-ifaz.me-9D4EDD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 *"Engineering is the discipline of turning clarity under pressure into systems people can trust."*
 
 <br/><br/>
