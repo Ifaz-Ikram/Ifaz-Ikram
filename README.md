@@ -151,37 +151,6 @@ Competing in programming contests, leading technical initiatives, and delivering
 
 <div align="center">
 
-## Current Focus
-
-</div>
-
-```yaml
-Learning:
-  - Advanced system design and distributed systems patterns
-  - Production MLOps and scalable AI service architectures
-  - Cloud-native microservices on AWS
-
-Building:
-  - Full-stack AI products at Rexosphere
-  - Open-source developer tooling (graphify)
-  - Research-driven fisheries intelligence and computer vision systems
-
-Exploring:
-  - LLM orchestration and agentic AI workflows
-  - Explainable AI for high-stakes decision systems
-  - Competitive programming at ICPC level
-
-Open To:
-  - Software Engineering internships and full-time roles
-  - AI/ML engineering opportunities
-  - Research collaborations in applied ML and computer vision
-  - Open source contributions and technical community initiatives
-```
-
----
-
-<div align="center">
-
 ## Connect
 
 </div>
